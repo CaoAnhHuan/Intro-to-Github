@@ -1,0 +1,7 @@
+﻿Các lệnh Git cơ bản
+Working flow
+Working directory -> Intiallization -> Staging Area -> Local repo -> Github
+
+git add . : thêm tất cả các thay đổi
+
+git commit --amend -m "message" : thay đổi commit
